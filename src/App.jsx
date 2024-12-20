@@ -1,4 +1,3 @@
-```jsx
 import React, { useState } from 'react';
 
 const ROICalculator = () => {
@@ -117,4 +116,4 @@ const ROICalculator = () => {
 };
 
 export default ROICalculator;
-```​​​​​​​​​​​​​​​​
+
